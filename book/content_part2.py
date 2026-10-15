@@ -65,7 +65,7 @@ CHAPTERS = [
       ['Depth of disclosure','Moderate; surface and safety','Variable; may deepen','Symptom-focused'],
       ['Output artifact','Intake summary + provisional impression','Progress note','Diagnostic and treatment recommendation'],
       ['Who performs it','Counselor, social worker, care coordinator','Treating counselor/therapist','Psychiatrist, advanced prescriber'],
-      ['Consent emphasis','Scope of evaluation, records, referrals','Ongoing treatment consent','Medication risks, monitoring']]])
+      ['Consent emphasis','Scope of evaluation, records, referrals','Ongoing treatment consent','Medication risks, monitoring']]),
   },
   {
    'h2': '5.2 Domains of the Psychosocial Intake',
@@ -331,7 +331,7 @@ CHAPTERS = [
     "Document the discussion, not just the signed form."
    ],
    'figure': None,
-   'table': None)
+   'table': None
   },
   {
    'h2': '5.8 Integrative Example: Intake to Plan in One Narrative',
@@ -359,7 +359,7 @@ CHAPTERS = [
    ],
    'bullets': [],
    'figure': None,
-   'table': None)
+   'table': None
   }
  ],
  'discussion': [
@@ -671,7 +671,7 @@ CHAPTERS = [
     "Document etiological reasoning briefly in the record; it defends your plan to reviewers."
    ],
    'figure': None,
-   'table': None)
+   'table': None
   }
  ],
  'discussion': [
